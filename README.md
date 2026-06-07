@@ -47,3 +47,8 @@ export COGNI_TEMPLATE_ROOT="$HOME/dev/cogni-template"
 ```
 
 The operator consumes the pushed digest and owns URL/DNS/deployment state.
+
+## Automation demo
+
+This branch exists to verify that a wizard-minted node repo starts GitHub
+Actions automatically on pull requests.
