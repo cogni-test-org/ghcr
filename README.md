@@ -47,3 +47,5 @@ export COGNI_TEMPLATE_ROOT="$HOME/dev/cogni-template"
 ```
 
 The operator consumes the pushed digest and owns URL/DNS/deployment state.
+
+<!-- task.5022 preview-promote E2E probe: no-op marker -->
